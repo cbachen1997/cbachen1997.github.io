@@ -16,7 +16,7 @@ I am a Ph.D Student majoring in **Remote Sensing**, **Deep Learning** and **AI f
 
 ## Academic Background
 
-**I am currently pursuing a PH.D degree in Remote Sensing. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
+**I am currently pursuing a PH.D degree in Remote Sensing. Contact me if you have any interesting idea!** 
 
 - **Sep 2016 - June 2020:** Wuhan University (BEng)
 - **Sep 2020 - June 2022:** China Agricutural University (BSc)

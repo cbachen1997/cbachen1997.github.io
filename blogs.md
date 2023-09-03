@@ -10,12 +10,5 @@ title: Blogs
 
 - To be updated
 
-<br>
 
-## Leave your comment
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
+ 

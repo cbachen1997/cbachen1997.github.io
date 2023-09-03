@@ -6,19 +6,21 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Boan Chen**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a Ph.D Student majoring in **Remote Sensing**, **Deep Learning** and **AI for HADR** at Wuhan University.
+#TODO add CV
+<!-- Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf). -->
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
+**<font color='red'>[Highlight]</font> I am currently pursuing a PH.D degree in Remote Sensing. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- **Sep 2016 - June 2020:** Wuhan University (BEng)
+- **Sep 2020 - June 2022:** China Agricutural University (BSc)
+- **Sep 2022 - Now:** Wuhan University (Ph.D)
 
 <br>
 
@@ -26,9 +28,9 @@ I am a junior majoring in **Automation** at Fuzhou University and **Robotics** a
 
 ## Research Interests
 
-- Industrial IoT System
-- Applied Machine Learning
-- Bionic Quadruped Robot
+- Deep Learning for Remote Sensing
+- Graph Neural Network
+- Brain-inspired Algorithms
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 

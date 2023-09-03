@@ -8,7 +8,8 @@ title: Blogs
 
 ### 2023
 
-- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
+- To be updated
+<!-- - [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
 
 ### 2022
 
@@ -24,11 +25,11 @@ title: Blogs
 ### 2020
 
 - [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
+- [本科博客，笔记，回忆录](https://mieclance.club/) -->
 
 <br>
 
-## Leave a Message
+## Leave your comment
 
 <br>
 

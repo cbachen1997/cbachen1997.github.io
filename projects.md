@@ -6,46 +6,14 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.<br>
-
-- To be updated
-
-<!-- #### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
-
-<center>
-<img src="/images/resnet-ahp.png">
-</center>
-<br>
-
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
-
-<center>
-<img src="/images/MCM-figure3.jpg">
-</center>
-<br>
-
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
-
-<center>
-<img src="/images/openiot-system.png">
-</center>
-
-<br>
-
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
-
-<center>
-<img src="/images/iot-manager.png">
-</center> -->
-<br>
-
-<br>
+- Jun 2022 - Now: National Natural Science Foundation of China Major Program (Grant No. 42192580, 42192583). **Technical Core**
+- Oct 2020 - Jun 2022: State Key Laboratory of Resources and Environmental Information System. **Technical Core**
+- Jun 2021 - Dec 2021: China Agricultural University Graduate Independent Innovation Research Fund Project (2021TC109). **Project Leader**
+- Jun 2020 - Dec 2021: National Key Research and Development Program of China (2018YFB0122700). **Technical Core**
 
 ---
 
 # Open-source Projects
-
-<br>
 
 - To be updated
 

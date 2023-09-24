@@ -85,5 +85,5 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/09/03 by Boan Chen.
+# Latest update in 2023/09/09 by Boan Chen.
 # URL: https://cbachen1997.github.io/

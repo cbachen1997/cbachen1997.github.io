@@ -13,6 +13,7 @@ title: Awards
 ---
 ## Competitions
 
+- Sep 2023: **Outstanding Paper** in Zhitian Forum. [[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/zhitian2023.jpg)
 - Aug 2023: **Best Student Award** in International Conference of BICS 2023.[[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/BICS2023.jpg)
 - May 2021: **Third Place Award** (Team Leader) in The 8th 'Sharing Cup' Innovation Competition of Science and Technology Resource Sharing Service.[[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/ShareCup3rd.pdf)
 
@@ -31,5 +32,5 @@ title: Awards
     - Journal: Computer Systems Science and Engineering
 
 
-Lastest Update: 6th September 2023
+Lastest Update: 24th September 2023
 

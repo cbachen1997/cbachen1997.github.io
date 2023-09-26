@@ -13,13 +13,14 @@ title: Awards
 ---
 ## Competitions
 
-- Sep 2023: **Outstanding Paper** in Zhitian Forum. [[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/zhitian2023.jpg)
 - Aug 2023: **Best Student Award** in International Conference of BICS 2023.[[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/BICS2023.jpg)
 - May 2021: **Third Place Award** (Team Leader) in The 8th 'Sharing Cup' Innovation Competition of Science and Technology Resource Sharing Service.[[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/ShareCup3rd.pdf)
 
 ---
 ## Honors
 
+- Sep 2023：***FRONTRUNNER 5000* - Top Article in Outstanding S&T Journal of China** for Journal Paper "A Review for Sample Datasets of Remote Sensing Imagery" [[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/F5000.jpg)
+- Sep 2023: **Outstanding Paper** in Zhitian Forum. [[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/zhitian2023.jpg)
 - Jul 2022: **Outstanding Graduate** in Beijing.
 - Jun 2022: **Outstanding Master's Thesis** in China Agricultural University. (10/All graduate students)
 - Jun 2022: **Outstanding Graduate** in China Agricultural University.

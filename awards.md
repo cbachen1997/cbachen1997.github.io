@@ -8,6 +8,7 @@ title: Awards
 
 ## Scholarships
 
+- Oct 2023：**Doctoral Degree Academic Second-tier Scholarship** in Wuhan University.
 - Nov 2021: **Master's Degree Academic Top-tier Scholarship** in China Agricultural University.
 
 ---
@@ -19,6 +20,7 @@ title: Awards
 ---
 ## Honors
 
+- Nov 2023：**Elsivier's Certificate** for supporting UN SDGs. [[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/elsvier_certificate_SDGs.pdf)
 - Sep 2023：***FRONTRUNNER 5000* - Top Article in Outstanding S&T Journal of China** for Journal Paper "A Review for Sample Datasets of Remote Sensing Imagery" [[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/F5000.jpg)
 - Sep 2023: **Outstanding Paper** in Zhitian Forum. [[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/zhitian2023.jpg)
 - Jul 2022: **Outstanding Graduate** in Beijing.

@@ -20,6 +20,7 @@ title: Awards
 ---
 ## Honors
 
+- Jan 2024: **Outstanding Paper of the Year** of National Remote Sensing Bulletin. [[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/OutstandingPaperofYGXB.jpg)
 - Nov 2023：**Elsivier's Certificate** for supporting UN SDGs. [[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/elsvier_certificate_SDGs.pdf)
 - Sep 2023：***FRONTRUNNER 5000* - Top Article in Outstanding S&T Journal of China** for Journal Paper "A Review for Sample Datasets of Remote Sensing Imagery" [[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/F5000.jpg)
 - Sep 2023: **Outstanding Paper** in Zhitian Forum. [[<span style="color: blue;">Certificate</span>]](https://cbachen1997.github.io/awards/zhitian2023.jpg)

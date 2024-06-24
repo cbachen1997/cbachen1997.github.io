@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## 禁止泊車 /No Parking
+## 禁止泊車/No Parking
 
 <img src="https://cbachen1997.github.io/BoanChen.jpg" class="floatpic" width="360" height="480">
 
@@ -17,7 +17,7 @@ I am a Ph.D Student majoring in **Remote Sensing**, **Deep Learning** and **AI f
 
 I am currently pursuing the Ph.D degree with the School of Remote Sensing an Information Engineering, Wuhan University. 
 
-Please feel free to c   ontact me if you have any interesting idea!
+Please feel free to contact me if you have any interesting idea!
 
 - **Sep 2016 - June 2020:** Wuhan University (B.E.)
 - **Sep 2020 - June 2022:** China Agricutural University (M.S.)

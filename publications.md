@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
--- -
+---
 
 # Publications
 
@@ -16,7 +16,7 @@ title: Publications
 ---
 ## Conference Paper
 
-- **Boan Chen**, Aohan Hu, Mengjie Xie, Zhi Gao*, Xuhui Zhao, Han Yi. A hierarchical geometry-to-semantic fusion GNN framework for earth surface anomalies detection. 13th International Conference on Brain Inspired Cognitive Systems (BICS’23) (pp. 62-71). Kuala Lumpur, Malaysia. August, 2023. 
+- **Boan Chen**, Aohan Hu, Mengjie Xie, Zhi Gao*, Xuhui Zhao, Han Yi. A hierarchical geometry-to-semantic fusion GNNframework for earth surface anomalies detection. 13th International Conference on Brain Inspired Cognitive Systems (BICS’23) (pp. 62-71). Kuala Lumpur, Malaysia. August, 2023. 
 [<span style="color: blue;">PDF</span>](https://cbachen1997.github.io/mypaper/conference/BICS_2023_paper_10_CameraReady.pdf) [<span style="color: blue;">Slides</span>](https://https://cbachen1997.github.io/mypaper/slides/BICS_2023.pdf).
 
 ## Journal Paper

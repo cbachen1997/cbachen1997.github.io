@@ -4,7 +4,7 @@ layout: page
 
 ## 禁止泊車 /No Parking
 
-<img src="https://cbachen1997.github.io/images/boan_2024.jpg" class="floatpic" width="360" height="480">
+<img src="https://cbachen1997.github.io/boan_2024.jpg" class="floatpic" width="360" height="480">
 
 Here is **Boan Chen**.
 
@@ -39,6 +39,7 @@ My current research focuses on the on-orbit rapid detection of earth's surface a
 
 ## News and Updates
 
+- **Jun 24th, 2024:** Information updated.
 - **Sep 3rd, 2023：** My personal homepage has been created.
 
 <br>

@@ -4,7 +4,7 @@ layout: page
 
 ## 禁止泊車 /No Parking
 
-<img src="https://cbachen1997.github.io/boan_2024.jpg" class="floatpic" width="360" height="480">
+<img src="https://cbachen1997.github.io/BoanChen.jpg" class="floatpic" width="360" height="480">
 
 Here is **Boan Chen**.
 

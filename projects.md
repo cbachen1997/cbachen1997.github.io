@@ -7,6 +7,7 @@ title: Projects
 # Research Projects
 
 - Jun 2022 - Now: National Natural Science Foundation of China Major Program (Grant No. 42192580, 42192583). **Technical Core**
+- Mar 2023 - Jun 2024: the Civilian Space Project (Grant. No. D040103, D010206). **Technical Core**
 - Oct 2020 - Jun 2022: State Key Laboratory of Resources and Environmental Information System. **Technical Core**
 - Jun 2021 - Dec 2021: China Agricultural University Graduate Independent Innovation Research Fund Project (2021TC109). **Project Leader**
 - Jun 2020 - Dec 2021: National Key Research and Development Program of China (2018YFB0122700). **Technical Core**

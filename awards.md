@@ -33,8 +33,9 @@ title: Awards
 ## Services
 
 - Peer Reviewer: 
-    - Journal: Computer Systems Science and Engineering
+    - Journal: Science of Remote Sensing, Computer Systems Science and Engineering
+    - Reference: BICS 2023
 
 
-Lastest Update: 24th Jun 2024
+Lastest Update: Nov 24th, 2024
 

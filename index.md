@@ -32,7 +32,9 @@ Please feel free to contact me if you have any interesting idea!
 - Graph Neural Network
 - Brain-inspired Algorithms
 
-My current research focuses on the on-orbit rapid detection of earth's surface anomalies (e.g. natural disaster, man-made accident), primarily utilizing **graph neural network (GNN)** techniques. I design models that take into account the nature of remote sensing imagery to rapidly detect and diagnose earth's surface anomalies from single remote sensing images.
+<p style="text-align: justify;">
+    My current research focuses on the on-orbit rapid detection of earth's surface anomalies (e.g. natural disaster, man-made accident), primarily utilizing **graph neural network (GNN)** techniques. I design models that take into account the nature of remote sensing imagery to rapidly detect and diagnose earth's surface anomalies from single remote sensing images.
+</p>
 
 <br>
 ---

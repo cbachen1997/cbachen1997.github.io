@@ -8,6 +8,7 @@ title: Awards
 
 ## Scholarships
 
+- Dec 2024：**The Xia Jianbai Scholarship for Outstanding Young Students in Surveying and Mapping – First Prize** in Wuhan University.
 - Nov 2024: **Doctoral Degree Academic First-tier Scholarship** in Wuhan University.
 - Oct 2023：**Doctoral Degree Academic Second-tier Scholarship** in Wuhan University.
 - Nov 2021: **Master's Degree Academic Top-tier Scholarship** in China Agricultural University.

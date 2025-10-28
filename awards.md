@@ -36,7 +36,7 @@ title: Awards
 ## Services
 
 - Peer Reviewer: 
-    - Journal: Science of Remote Sensing, Knowledge-Based Systems, Computer Systems Science and Engineering, 
+    - Journal: Remote Sensing of Environment, ISPRS Journal of Photogrammetry and Remote Sensing, Science of Remote Sensing, Knowledge-Based Systems, Computer Systems Science and Engineering, 
     - Reference: BICS 2023
 
 
